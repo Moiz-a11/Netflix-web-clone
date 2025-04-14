@@ -1,2 +1,2 @@
-# netflix-web-clone
-# netflix web clone
+
+# netflix web clone.
